@@ -1,0 +1,7 @@
+*.dep
+*.txt
+*.grd
+*.bcf
+*.nc
+*.bat
+*.csv
